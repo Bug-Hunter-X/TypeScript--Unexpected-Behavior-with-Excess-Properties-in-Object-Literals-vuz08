@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle issue in TypeScript: the lack of compile-time errors when passing objects with extra properties to functions.  The `bug.ts` file shows the problem. The `bugSolution.ts` file illustrates solutions to address this behavior and enhance type safety.
